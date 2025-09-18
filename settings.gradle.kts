@@ -21,4 +21,11 @@ dependencyResolutionManagement {
 
 rootProject.name = "eventplain"
 include(":app")
- 
+include(":core")
+include(":ui-common")
+include(":domain")
+include(":data")
+include(":sync")
+include(":feature-home")
+include(":feature-eventdetails")
+include(":feature-payment")
